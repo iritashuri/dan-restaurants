@@ -1,0 +1,1 @@
+This app will display all the restaurants in "Dan" area including the restaurant description.
